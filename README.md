@@ -1,0 +1,2 @@
+# Temperature-Alert-using-IOT-ML
+In industry temperature is a crucial parameter. All the activities which are taking place in industries need temperature but excessive temperature may causes harm or danger. So to prevent that we use IoT technology by which we can get a alert when temperature crosses a certain limit and also by using ML technology we can get a prediction of the temperature trend and can be get warned.
